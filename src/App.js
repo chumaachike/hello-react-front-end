@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from 'react';
+import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
       setGreeting(result.data.message);
     };
 
-   fetchData();
+    fetchData();
   }, []);
   if (greeting === undefined || greeting.length === 0) {
     renderedItem = (
@@ -19,11 +19,11 @@ function App() {
       </p>
     );
   } else {
-    renderedItem = greeting
+    renderedItem = greeting;
   }
   return (
     <div className="App">
-     <h1>{renderedItem}</h1>
+      <h1>{renderedItem}</h1>
     </div>
   );
 }
