@@ -3,7 +3,7 @@
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>HOTEL FUR PETS FRONTEND</b></h3>
+  <h3><b>Hello React Frontend</b></h3>
 
 </div>
 
@@ -11,7 +11,6 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-  - [Kanban board](#kanban-board)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
@@ -28,26 +27,23 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Hotel Fur Pets FRONTEND <a name="about-project"></a>
+# 📖 Hello Rails Frontend <a name="about-project"></a>
 
-This application allows you to see the hotels for pets saved in the Hotel Fur Pets API. In addition to seeing the hotels, the user can also see the details of each hotel, and make reservations.
+This application gets a random greeting from the API and renders it in the frontend
 
-# Kanban board <a name="kanban-board"></a>
 
-You can see our [kanban board](https://github.com/users/Jeanbulambo/projects/2)
+## Backend Repository
+[GitHub Link](https://github.com/chumaachike/hello-rails-back-end.git)
 
-![image](https://user-images.githubusercontent.com/53547956/205092158-5cd9f64c-8fa1-43d7-841c-fdd81dbafa3b.png)
+## Built With
 
-In our group we are 4 people:
+### Technologies
+- React
+- Redux
+-  CSS
 
-- [@VaneCode](https://github.com/VaneCode)
-- [@Aaron](https://github.com/aron-helu) 
-- [@chumaachike](https://github.com/chumaachike)
-- [@Jeanbulambo](https://github.com/Jeanbulambo)
 
-## 🛠 Built With <a name="built-with"></a>
-
-### Tech Stack <a name="tech-stack"></a>
+## Getting Started
 
 <details>
   <summary>Styles</summary>
@@ -65,10 +61,8 @@ In our group we are 4 people:
 
 ### Key Features <a name="key-features"></a>
 
-- Authentication.
-- Create a booking.
-- Get the bookings of the current user.
-- Get the data of the hotels.
+- Render data to user
+-  Get data from API
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,7 +93,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  https://github.com/Jeanbulambo/dogs_appointment.git
+  https://github.com/chumaachike/hello-react-front-end.git
 ```
 
 ### Install
@@ -107,7 +101,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd dogs_appointment
+  cd hello-react-front-end
   npm instal
 ```
 
@@ -123,22 +117,6 @@ To execute the following command:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Author <a name="authors"></a>
-
-👤 **Vanessa Bonito**
-
-- GitHub: [@VaneCode](https://github.com/VaneCode)
-- Twitter: [@BonitoNarvaez](https://twitter.com/BonitoNarvaez)
-- LinkedIn: [Vanessa Bonito Narváez](https://www.linkedin.com/in/vanessa-bonito-narvaez/)
-
-👤 **Aron Abraham**
-
-- GitHub: [@Aaron](https://github.com/aron-helu)
-- LinkedIn: [@Aaron](https://www.linkedin.com/in/aron-abraham-90a4321b0/) 
-
-👤 **Jean Bulambo**
-
-- GitHub: [@Jeanbulambo](https://github.com/Jeanbulambo)
-- LinkedIn: [@Jeanbulambo](https://www.linkedin.com/in/jean-bulambo-20662a14a/)
 
 👤 **Achike Chuma Edward**
 
@@ -173,7 +151,6 @@ Give a star if you like this project!
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - Microverse.
-- The credit of the original design is to Murat Korkmaz on Behance.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
